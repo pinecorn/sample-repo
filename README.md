@@ -1,2 +1,2 @@
 # sample-repo
-Git練習用
+6/24更新
